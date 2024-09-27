@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-<h3 align="left">Connect with me: kasunlakshitha998@gmail.com</h3>
+<h3 align="left">Connect with me: <a>kasunlakshitha998@gmail.com</a></h3>
 <p align="left">
 </p>
 
