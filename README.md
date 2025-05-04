@@ -18,7 +18,7 @@
 - 💬 Ask me about **MERN Stack, Java, Kotlin, and Android Development**  
 - 📫 Reach me at: [kasunlakshitha998@gmail.com](mailto:kasunlakshitha998@gmail.com)  
 - 🌐 Portfolio: [https://kasunlakshitha.app](https://kasunlakshitha998.github.io/Portfolio/)  
-- 🔗 Connect on [LinkedIn](https://linkedin.com/in/kasunlakshitha)
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/kasun-lakshitha-53a9472a6/)
 
 ---
 
